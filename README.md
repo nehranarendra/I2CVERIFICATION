@@ -33,7 +33,7 @@ Clone the repository:
 
 sh
 Copy code
-git clone https://github.com/your-repo/i2c-verification.git
+git clone [https://github.com/your-repo/i2c-verification.git](https://github.com/nehranarendra/I2CVERIFICATION)
 cd i2c-verification
 Run the simulation:
 Use your preferred simulator to run the testbench. For example, with vcs:
